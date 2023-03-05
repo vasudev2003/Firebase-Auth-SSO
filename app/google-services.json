@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136875763921",
+    "project_id": "sso-signin-signup",
+    "storage_bucket": "sso-signin-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136875763921:android:81ddd8d4e79af889c4bdf0",
+        "android_client_info": {
+          "package_name": "com.example.sso_signin_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136875763921-5qkkhra9498s8kena0oq3uv3k5cghenf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsnDpVkANpWvR75JhrUEh6J4dpnyB_FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136875763921-5qkkhra9498s8kena0oq3uv3k5cghenf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
